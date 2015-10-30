@@ -1,6 +1,6 @@
 # tweet-emotion-classifier
 
-This classifier with full unicode support takes two sets of training data in the form of tab delimited files containing tweets mined using the Twitter API. \
+This classifier with full unicode support takes two sets of training data in the form of tab delimited files containing tweets mined using the Twitter API. 
 
 The SVM_perf implementation of the Support Vector Machine (SVM) is then used to create a binary classifier. 
 
